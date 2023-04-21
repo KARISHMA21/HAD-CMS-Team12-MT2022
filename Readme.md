@@ -1,10 +1,9 @@
 
 
 HOSPITAL :
-	Back end	: https://github.com/prarthanaus0597/HAD_HIS_backend
-	Front end	: https://github.com/prarthanaus0597/HAD-HIS-frontend
+* Back-end service	: https://github.com/prarthanaus0597/HAD-HIS-SERVICE
+* Front-end		: https://github.com/prarthanaus0597/HAD-HIS-FRONTEND
 	
 CENTRAL SERVICES : ADMIN,CMS,PATIENT-APP
-	
-https://github.com/prarthanaus0597/HAD-Patient-frontend
-https://github.com/prarthanaus0597/HAD_Patient_backend
+* Back-end services	: https://github.com/prarthanaus0597/HAD-CENTRAL-SERVICES
+* Patient-App Front-end	: https://github.com/prarthanaus0597/HAD-PATIENT-FRONTEND
