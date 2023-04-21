@@ -12,6 +12,6 @@ Below are the links for the project repositories --
 ### OUR TEAM:
 * PRARTHANA	- MT2022077 
 * MADHUGANDHA	- MT2022058
-* KARISHMA	- MT2022056
 * JACOB		- MT2022150
+* KARISHMA	- MT2022056
 * PARV		- MT2022071
